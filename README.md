@@ -1,3 +1,4 @@
 # plantilla-para-login
 v1.5.5
-La aplicación consta de tres pantallas: una pantalla de inicio de sesión, una pantalla de registro y una pantalla de recuperación de contraseña. La aplicación se utiliza para iniciar sesión, crear una cuenta y recuperar una contraseña olvidada. No se utiliza para nada más.
+El proyecto consta de cuatro plantillas: una de inicio de sesión, de registro, de recuperación de contraseña y una de manual de ayuda. La aplicación se utiliza para iniciar sesión, crear una cuenta y recuperar una contraseña olvidada. No se utiliza para nada más.
+Plantilla Login: 
